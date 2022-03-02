@@ -1,3 +1,5 @@
+# 큰 수의 
+
 n, m, k = map(int, input().split())
 data = list(map(int, input().split()))
 
